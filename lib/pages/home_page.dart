@@ -447,7 +447,7 @@ class HomePage extends StatelessWidget {
                   width: 3,
                 ),
                 Text(
-                  "Buitenzorg, Indonesia",
+                  "Yogyakarta, Indonesia",
                   style: GoogleFonts.inter(
                       fontWeight: FontWeight.w500, fontSize: 12, color: black),
                 )
