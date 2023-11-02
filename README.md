@@ -1,16 +1,15 @@
-# booking_ticket_airplane_flutter
+### Flutter Libraries Utilized
 
-A new Flutter project.
+Here are the Flutter libraries utilized in this project:
 
-## Getting Started
+- **cupertino_icons:** Cupertino Icons provides icons that align with the iOS design language, enabling you to achieve a consistent appearance with the iOS platform and enhance the look of your app.
 
-This project is a starting point for a Flutter application.
+- **dotted_line:** Dotted Line is a library that offers a widget for drawing dotted lines with various customization options. You can use this widget to create separators, borders, or other visual effects for your app.
 
-A few resources to get you started if this is your first Flutter project:
+- **flutter_svg:** Flutter SVG allows you to display and manipulate Scalable Vector Graphics (SVG) in your app. You can use this library to load SVG files from assets, network, or strings, and customize their color, size, alignment, and more.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **google_fit:** Google Fit provides a plugin that connects to the Google Fit API, allowing you to access fitness data from your app. You can use this library to read and write fitness data, including steps, calories, distance, heart rate, and more.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **google_fonts:** Google Fonts enables you to use fonts from Google Fonts, a free service offering a vast selection of high-quality fonts. You can dynamically download and apply these fonts without needing to include font assets in your app.
+
+[Instagram Posted](https://www.instagram.com/p/CzGlaZWSo3N/)
